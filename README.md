@@ -1,14 +1,17 @@
-### Hi there 👋
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mohamed Abohassan!
 
-I'm Mohamed Abohassan.
+My stack is as follows:
+* **Frontend**: HTML, CSS, Vanilla JavaScript, Pug, VueJs, Nuxt.js.
+* **Backend**: PHP, NodeJS.
+* **Cloud Tools**: Docker, Kubernetes, Helm.
+* **Databases**: MySQL, PostgreSQL, Redis, Elasticsearch, MongoDB.
+* **Cloud Computing**: AWS.
+* **CI/CD**: AWS CodeBuild, AWS CodePipeline, Jenkins.
+* **Technologies**: RabbitMQ, AWS SQS, Nginx, Apache, PHP-FPM, PHPUnit, Symfony, Laravel
+* **Architecture**: Event Driven Architecture, Microservices Architecture.
 
-I’m a back-end engineer at Aqarmap, 
-Also currently I’m responsible for the DevOps part to support our running apps.
+## Blogging  &#x270f;
+You can find me writing on my blog *[abohassan.me](https://abohassan.me)*.
 
-I have been working as a software engineer for almost 5 years now,
- using multitude of technologies like PHP, Javascript, Nodejs, VueJs, 
-but in recent 2 years I focused myself in backend development especially using PHP.
-
-I feel quite comfortable with different databases like Mysql, Redis, Elasticsearch, and MongoDB
-
-I have a good knowledge over clouded prospects as well such as Docker, kubernetes, and helm.
+## I am also lurking on ⚡
+[LinkedIn <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/m-abohassan/) **|** [Twitter <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/@m_abohassan1) **|** [My blog <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://abohassan.me/)
