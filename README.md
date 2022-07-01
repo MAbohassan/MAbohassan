@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mohamed Abohassan!
+# Hi there, I am Mohamed Abohassan!
 
 I'm a Backend Engineer at [@trivago](https://trivago.com/).
 
