@@ -1,6 +1,6 @@
 # Hi there, I am Mohamed Abohassan!
 
-I'm a Backend Engineer at [@trivago](https://trivago.com/).
+I'm a Backend Engineer at [@ozean12](https://www.billie.io/).
 
 My stack is as follows:
 * **Frontend**: HTML, CSS, Vanilla JavaScript, Pug, VueJs, Nuxt.js.
