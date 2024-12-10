@@ -1,6 +1,6 @@
 # Hi there, I am Mohamed Abohassan!
 
-I'm a Backend Engineer at [@ozean12](https://www.billie.io/).
+I'm a Senior Software Engineer at [@kaufland-ecommerce](https://kaufland.de/).
 
 My stack is as follows:
 * **Frontend**: HTML, CSS, Vanilla JavaScript, Pug, VueJs, Nuxt.js.
